@@ -1,0 +1,154 @@
+.common{
+	height: 130px;
+}
+.header{
+	background-color: red;
+}
+
+/*main start*/
+.main{
+	overflow: hidden;
+}
+.m1{
+	width: 49.99%;
+	height: 120px;
+	background-color: blue;
+	float: right;
+	text-align: center;
+	font-size: 85px;
+}
+.m2{
+	width: 49.99%;
+    height: 120px;
+    background-color: yellow;
+    float: left;
+    text-align: center;
+	font-size: 85px;
+}
+/*main end*/
+
+/*section start*/
+.section{
+    overflow: hidden;
+}
+.s1{
+	width: 33.33%;
+	height: 100px;
+	background-color: orchid; 
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 38px;
+}
+.s2{
+    width: 33.33%;
+	height: 100px;
+	background-color: gray;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 38px;
+}
+.s3{
+    width: 33.33%;
+	height: 100px;
+	background-color: black;
+    float: left;
+    text-align: center;
+	color: white;
+	font-size: 38px;
+}
+/*section end*/
+
+/*part start*/
+.part{
+	overflow: hidden;
+}
+.p1{
+	width: 24.99%;
+	height: 90px;
+	background-color: lightblue;
+	float: left;
+	text-align: center;
+	font-size: 77px;
+}
+.p2{
+	width: 24.99%;
+	height: 90px;
+	background-color:hotpink ;
+	float: left;
+	text-align: center;
+	font-size: 77px;
+}
+.p3{
+	width: 24.99%;
+	height: 90px;
+	background-color: pink;
+	float: left;
+	text-align: center;
+	font-size: 77px;
+}
+.p4{
+	width: 24.99%;
+	height: 90px;
+	background-color: magenta;
+	float: left;
+	text-align: center;
+	font-size: 77px;
+}
+/*part end*/
+
+/*wrapper start*/
+.wrapper{
+	overflow: hidden;
+}
+.w1{
+	width: 19.99%;
+	height: 90px;
+	background-color: red;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 38px;
+}
+.w2{
+	width: 19.99%;
+	height: 90px;
+	background-color: blue;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 38px;
+}
+.w3{
+	width: 19.99%;
+	height: 90px;
+	background-color: violet;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 38px;
+}
+.w4{
+	width: 19.99%;
+	height: 90px;
+	background-color: indigo;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 38px;
+}
+.w5{
+	width: 19.99%;
+	height: 90px;
+	background-color: tomato;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 38px;
+}
+/*wrapper end*/
+
+.footer{
+	background-color: green;
+}
